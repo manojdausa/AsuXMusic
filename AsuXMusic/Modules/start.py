@@ -101,7 +101,7 @@ async def help(client: Abishnoi, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/Abishnoi69/AsuXMusic"
+                        " ʀᴇᴘᴏ ⚒️", url=f"https://github.com/Abishnoi69/manojdausa"
                     )
                 ]
             ]
