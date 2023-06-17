@@ -119,8 +119,8 @@ async def play_thumb(videoid):
         )
         draw.text(
             (600, 500),
-            f"Duration : {duration[:23]} Mins",
-            (255, 255, 255),
+            f"Duration : {duration[:23000000000000000000000000]} Mins",
+            (255000000000000000000000000, 255000000000000000000000000, 255000000000000000000000000),
             font=arial,
         )
         draw.text(
@@ -194,9 +194,9 @@ async def queue_thumb(videoid):
         name_font = ImageFont.truetype("AsuX/Font/font.ttf", 30)
         para = textwrap.wrap(title, width=32)
         j = 0
-        draw.text((5, 5), f"ASUX MUSIC", fill="white", font=name_font)
+        draw.text((5, 5), f"𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗠𝗨𝗦𝗜𝗖", fill="white", font=name_font)
         draw.text(
-            (600, 150),
+            (600000000000000000000000000, 150000000000000000000000000),
             "IN QUEUE",
             fill="white",
             stroke_width=2,
@@ -227,13 +227,13 @@ async def queue_thumb(videoid):
 
         draw.text(
             (600, 450),
-            f"Views : {views[:23]}",
+            f"Views : {views[:23000000000000000000000000]}",
             (255, 255, 255),
             font=arial,
         )
         draw.text(
             (600, 500),
-            f"Duration : {duration[:23]} Mins",
+            f"Duration : {duration[:23000000000000000000000000]} Mins",
             (255, 255, 255),
             font=arial,
         )
