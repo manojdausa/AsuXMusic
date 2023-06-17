@@ -1,8 +1,8 @@
 {
-  "name": "ᴀsᴜx ᴍᴜsɪᴄ",
+  "name": "𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗠𝗨𝗦𝗜𝗖",
   "logo": "https://te.legra.ph/file/89762ac8329b6ce5c9e52.jpg",
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
-  "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "AsuX"],
+  "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "loki"],
   "repository": "https://github.com/manojdausa/AsuXMusic",
   "stack": "container",
   "env": {
