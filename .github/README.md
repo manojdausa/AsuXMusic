@@ -1,5 +1,5 @@
 v<h2 align="center">
-    ─────「✨ ᴀsᴜ ✘ ᴍᴜsɪᴄ ✨」─────
+    ─────「✨ 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗠𝗨𝗦𝗜𝗖 ✨」─────
 </h2>
 
 
@@ -9,9 +9,9 @@ v<h2 align="center">
 <h2 align="center">
 ━━━━━━━━━━━━━━━━━━━━
   
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/dausa_123) 
 
-## [ᴜᴘᴅᴀᴛᴇ](https://t.me/Abishnoi_bots)  
+## [ᴜᴘᴅᴀᴛᴇ](https://t.me/lokesh_dausa)  
 
 ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
   
@@ -55,10 +55,10 @@ v<h2 align="center">
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/AbishnoiMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/dausa_123"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Abishnoi_bots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/kalam_se"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
@@ -84,6 +84,6 @@ v<h2 align="center">
 ➥ [𝐀ʙɪsʜɴᴏɪ] × <a href="http://github.com/Abishnoi69/AsuXMusic" alt="Abishnoi69"> <img src="https://img.shields.io/badge/Abishnoi69-90302f?logo=github" /></a>  
 
 
-- **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Abishnoi69/AsuXMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴀsᴜ ✘ ᴍᴜsɪᴄ 🖤**
+- **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/manojdausa/AsuXMusic/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ᴀsᴜ ✘ ᴍᴜsɪᴄ 🖤**
 
 ----------------------------------------------------------
