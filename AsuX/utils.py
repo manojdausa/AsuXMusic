@@ -12,7 +12,7 @@ from pytgcalls.types.input_stream.quality import (
 from pytgcalls.types.stream import StreamAudioEnded
 
 from AsuX.queues import QUEUE, clear_queue, get_queue, pop_an_item
-from AsuXMusic import bot, call_py
+from lokesh_dausa import bot, call_py
 
 keyboard = InlineKeyboardMarkup(
     [
