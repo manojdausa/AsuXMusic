@@ -115,7 +115,7 @@ async def cbstart(_, query: CallbackQuery):
                 [
                     InlineKeyboardButton(
                         text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        url="https://t.me/Lokesh_dausa",
                     )
                 ],
             ]
