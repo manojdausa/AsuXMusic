@@ -11,8 +11,8 @@ from AsuX.queues import QUEUE, add_to_queue
 from AsuX.thumbnail import play_thumb, queue_thumb
 from AsuX.utils import bash
 from AsuXMusic import BOT_USERNAME
-from AsuXMusic import Abishnoi as user
-from AsuXMusic import bot as Abishnoi
+from AsuXMusic import Dausa_123 as user
+from AsuXMusic import bot as Dausa_123
 from AsuXMusic import call_py
 from AsuXMusic.config import IMG_1, IMG_2, IMG_5
 
