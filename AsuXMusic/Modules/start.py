@@ -40,10 +40,10 @@ async def start(client: Abishnoi, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥀 ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "🥀 ɢʀᴏᴜᴘ", url=f"https://t.me/{KALAM_SE}"
                     ),
                     InlineKeyboardButton(
-                        "🏡 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "🏡 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{DAUSA_123}"
                     ),
                 ]
             ]
@@ -74,16 +74,16 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{GROUP_SUPPORT}"
+                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{KALAM_SE}"
                     ),
                     InlineKeyboardButton(
-                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{DAUSA_123}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://github.com/Abishnoi69/AsuXMusic",
+                        url="https://github.com/manojdausa/AsuXMusic",
                     )
                 ],
             ]
@@ -93,7 +93,7 @@ async def start(_, message: Message):
 
 
 @Abishnoi.on_message(filters.command(["repo", "source"]))
-async def help(client: Abishnoi, message: Message):
+async def help(client: lokesh_dausa, message: Message):
     await message.reply_photo(
         photo=f"https://te.legra.ph/file/56557bd94afbe895ae483.jpg",
         caption=f"""ʜᴇʀᴇ ɪs ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ғᴏʀᴋ ᴀɴᴅ ɢɪᴠᴇ sᴛᴀʀs ✨""",
