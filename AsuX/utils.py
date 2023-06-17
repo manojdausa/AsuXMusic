@@ -17,7 +17,7 @@ from lokesh_dausa import bot, call_py
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="• ᴍᴇɴᴜ", callback_data="cbmenu"),
+            InlineKeyboardButton(text="• ᴍᴇɴᴜ", callback_data="menu"),
             InlineKeyboardButton(text="• ᴄʟᴏsᴇ", callback_data="cls"),
         ]
     ]
