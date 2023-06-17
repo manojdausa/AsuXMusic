@@ -106,16 +106,16 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{GROUP_SUPPORT}"
+                        text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=f"https://t.me/{kalam_se}"
                     ),
                     InlineKeyboardButton(
-                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        text="💘 ᴄʜᴀɴɴᴇʟ 💘", url=f"https://t.me/{dausa_123}"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
                         text="☁ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ☁",
-                        url="https://t.me/Lokesh_dausa",
+                        url="https://github.com/manojdausa/AsuXMusic",
                     )
                 ],
             ]
